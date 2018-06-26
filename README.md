@@ -37,6 +37,6 @@ MIT
 
 ## Contributors
 
-* [Aman Mittal](www.amanhimself.me)
+* [Aman Mittal](http://www.amanhimself.me)
 * [Joe](https://github.com/jastuccio)
-* [Elohina](www.elohinaguevara.com)
+* [Elohina](http://elohinaguevara.com)
